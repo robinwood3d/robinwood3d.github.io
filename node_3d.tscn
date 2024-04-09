@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dvsbbq41oxrxr"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="."]
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.963968, -0.0723378, 0.255994, -0.0220754, 0.937245, 0.347971, -0.2651, -0.341084, 0.901878, 0.692173, 0.78058, 1.97086)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.775782, -0.631001, 1.49012e-08, 0.136359, 0.167646, 0.976372, -0.616091, -0.757452, 0.216099, 0.881908, 1.96564, -1.58279)
